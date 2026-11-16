@@ -1,0 +1,101 @@
+imoNumber,shipName,flagCountry,shipType,latitude,longitude,speed,status
+IMO2000001,Ocean Star 1,USA,Tanker,0.2767,4.0197,6.7,Normal
+IMO2000002,Sea Guardian 1,UAE,Bulk Carrier,13.3633,-26.9909,17.5,Normal
+IMO2000003,Blue Horizon 1,UAE,Passenger,30.423,-3.0925,16.8,Normal
+IMO2000004,Pacific Trader 1,USA,Passenger,12.5625,-132.3496,8.4,Normal
+IMO2000005,Marine Voyager 1,Norway,Tanker,43.006,-3.3025,5.2,Normal
+IMO2000006,Eastern Pearl 1,Norway,Passenger,-16.7576,169.6291,10.6,Normal
+IMO2000007,Global Carrier 1,Norway,Cargo,1.4946,-144.0512,19.0,Normal
+IMO2000008,Ocean Pioneer 1,UAE,Container,-22.8666,-14.4677,12.8,Normal
+IMO2000009,Sea Falcon 1,Greece,Cargo,23.1949,-46.3956,5.3,Normal
+IMO2000010,Atlantic Spirit 1,USA,Passenger,9.429,-0.5253,10.6,Normal
+IMO2000011,Ocean Star 2,Panama,Passenger,27.5161,34.0562,12.1,Normal
+IMO2000012,Sea Guardian 2,Panama,Bulk Carrier,-26.5492,-27.2115,17.8,Normal
+IMO2000013,Blue Horizon 2,UK,Cargo,-52.2086,-93.6615,12.3,Normal
+IMO2000014,Pacific Trader 2,UAE,Passenger,2.5538,57.9642,18.5,Normal
+IMO2000015,Marine Voyager 2,USA,Passenger,-1.9676,-92.1647,11.6,Normal
+IMO2000016,Eastern Pearl 2,Liberia,Container,23.5976,156.2715,14.4,Normal
+IMO2000017,Global Carrier 2,Liberia,Passenger,18.6729,-65.4067,12.8,Normal
+IMO2000018,Ocean Pioneer 2,Japan,Cargo,-10.7857,-101.1393,16.3,Normal
+IMO2000019,Sea Falcon 2,Panama,Bulk Carrier,17.1207,33.0729,5.5,Normal
+IMO2000020,Atlantic Spirit 2,Panama,Passenger,-15.4071,-102.0552,18.0,Normal
+IMO2000021,Ocean Star 3,Liberia,Cargo,35.8791,104.7062,12.2,Normal
+IMO2000022,Sea Guardian 3,USA,Passenger,-20.1677,141.716,16.6,Normal
+IMO2000023,Blue Horizon 3,Panama,Tanker,31.3592,5.1589,14.7,Normal
+IMO2000024,Pacific Trader 3,USA,Container,37.6684,-7.0903,18.5,Normal
+IMO2000025,Marine Voyager 3,Greece,Tanker,-14.2858,-103.8406,17.6,Normal
+IMO2000026,Eastern Pearl 3,UAE,Bulk Carrier,-53.4564,-169.9273,11.3,Normal
+IMO2000027,Global Carrier 3,Singapore,Cargo,-45.8628,99.882,18.1,Normal
+IMO2000028,Ocean Pioneer 3,Norway,Tanker,27.7041,155.1647,13.7,Normal
+IMO2000029,Sea Falcon 3,Panama,Tanker,18.1039,25.2564,5.1,Normal
+IMO2000030,Atlantic Spirit 3,UAE,Bulk Carrier,-2.9718,-125.3865,12.6,Normal
+IMO2000031,Ocean Star 4,UK,Bulk Carrier,-9.0443,-115.5588,9.1,Normal
+IMO2000032,Sea Guardian 4,Liberia,Tanker,-9.6757,104.7183,9.3,Normal
+IMO2000033,Blue Horizon 4,USA,Cargo,50.4707,-37.6217,10.3,Normal
+IMO2000034,Pacific Trader 4,India,Cargo,16.09,147.7449,16.7,Normal
+IMO2000035,Marine Voyager 4,Norway,Cargo,-18.9464,-66.7516,12.1,Normal
+IMO2000036,Eastern Pearl 4,UK,Tanker,-3.6759,40.3261,12.0,Normal
+IMO2000037,Global Carrier 4,Panama,Bulk Carrier,-32.2316,41.9366,13.3,Normal
+IMO2000038,Ocean Pioneer 4,India,Tanker,23.1971,16.1003,8.3,Normal
+IMO2000039,Sea Falcon 4,India,Passenger,-35.93,50.3985,14.1,Normal
+IMO2000040,Atlantic Spirit 4,India,Tanker,15.4938,-5.4941,17.2,Normal
+IMO2000041,Ocean Star 5,UK,Tanker,-30.9404,130.1066,26.7,Normal
+IMO2000042,Sea Guardian 5,Liberia,Passenger,-34.5394,-77.2457,26.9,Normal
+IMO2000043,Blue Horizon 5,UK,Container,-12.8496,-106.3524,28.7,Normal
+IMO2000044,Pacific Trader 5,Japan,Passenger,54.9168,107.098,25.1,Normal
+IMO2000045,Marine Voyager 5,Liberia,Bulk Carrier,2.1269,-18.8418,22.6,Normal
+IMO2000046,Eastern Pearl 5,Singapore,Cargo,34.7768,118.2758,28.1,Normal
+IMO2000047,Global Carrier 5,Greece,Bulk Carrier,41.6483,49.5309,29.5,Normal
+IMO2000048,Ocean Pioneer 5,India,Container,38.4443,57.9356,28.0,Normal
+IMO2000049,Sea Falcon 5,Liberia,Tanker,-16.3128,63.6334,28.5,Normal
+IMO2000050,Atlantic Spirit 5,UAE,Tanker,23.7614,18.9719,22.0,Normal
+IMO2000051,Ocean Star 6,UK,Cargo,6.9115,57.9045,26.1,Normal
+IMO2000052,Sea Guardian 6,USA,Cargo,-44.3926,-21.742,28.0,Normal
+IMO2000053,Blue Horizon 6,USA,Bulk Carrier,24.4594,-106.9316,27.8,Normal
+IMO2000054,Pacific Trader 6,Norway,Tanker,9.6919,-148.2689,23.8,Normal
+IMO2000055,Marine Voyager 6,Japan,Passenger,-48.0833,-30.0416,23.3,Normal
+IMO2000056,Eastern Pearl 6,Japan,Cargo,-48.6957,-90.0234,29.6,Normal
+IMO2000057,Global Carrier 6,Norway,Container,6.7296,165.9471,21.8,Normal
+IMO2000058,Ocean Pioneer 6,UAE,Cargo,11.7981,52.6038,27.9,Normal
+IMO2000059,Sea Falcon 6,Panama,Passenger,-20.233,-96.6837,29.2,Normal
+IMO2000060,Atlantic Spirit 6,Liberia,Container,41.6244,63.3976,29.7,Normal
+IMO2000061,Ocean Star 7,Greece,Cargo,49.177,-48.8519,24.5,Normal
+IMO2000062,Sea Guardian 7,USA,Container,-18.6397,77.2231,23.5,Normal
+IMO2000063,Blue Horizon 7,Liberia,Container,-19.9229,137.0066,27.8,Normal
+IMO2000064,Pacific Trader 7,UK,Bulk Carrier,-48.824,169.0264,22.8,Normal
+IMO2000065,Marine Voyager 7,UAE,Container,-50.8949,7.6785,22.1,Normal
+IMO2000066,Eastern Pearl 7,Greece,Passenger,8.594,-48.9697,31.2,Normal
+IMO2000067,Global Carrier 7,UK,Tanker,-8.6916,-95.3478,32.7,Normal
+IMO2000068,Ocean Pioneer 7,Liberia,Passenger,17.7719,147.7863,34.8,Normal
+IMO2000069,Sea Falcon 7,India,Container,31.5265,-92.393,37.2,Normal
+IMO2000070,Atlantic Spirit 7,UK,Bulk Carrier,-9.0332,155.8828,34.8,Normal
+IMO2000071,Ocean Star 8,Liberia,Container,-35.2768,-157.077,31.6,Normal
+IMO2000072,Sea Guardian 8,India,Cargo,2.2494,82.6513,33.4,Normal
+IMO2000073,Blue Horizon 8,Singapore,Bulk Carrier,-28.2913,-150.179,35.4,Normal
+IMO2000074,Pacific Trader 8,Greece,Container,46.9953,138.0554,37.0,Normal
+IMO2000075,Marine Voyager 8,Norway,Tanker,-29.4236,111.8778,37.7,Normal
+IMO2000076,Eastern Pearl 8,Panama,Bulk Carrier,-4.4806,-14.4295,33.6,Normal
+IMO2000077,Global Carrier 8,Panama,Cargo,-37.5876,-30.417,33.2,Normal
+IMO2000078,Ocean Pioneer 8,Greece,Cargo,34.5129,113.9204,37.7,Normal
+IMO2000079,Sea Falcon 8,Japan,Tanker,-45.7372,-43.2501,35.5,Normal
+IMO2000080,Atlantic Spirit 8,Liberia,Tanker,-43.9173,137.1922,36.0,Normal
+IMO2000081,Ocean Star 9,India,Passenger,21.516,-65.7184,36.9,Normal
+IMO2000082,Sea Guardian 9,UK,Bulk Carrier,50.9458,5.6426,33.7,Normal
+IMO2000083,Blue Horizon 9,Liberia,Container,-39.3918,-37.668,31.7,Normal
+IMO2000084,Pacific Trader 9,Singapore,Tanker,26.1063,55.1701,33.2,Normal
+IMO2000085,Marine Voyager 9,UK,Passenger,-22.5179,-72.9032,37.3,Normal
+IMO2000086,Eastern Pearl 9,India,Bulk Carrier,0.0,0.0,32.7,Suspicious
+IMO2000087,Global Carrier 9,Greece,Container,0.0,0.0,36.8,Suspicious
+IMO2000088,Ocean Pioneer 9,Liberia,Tanker,0.0,0.0,38.3,Suspicious
+IMO2000089,Sea Falcon 9,India,Tanker,0.0,0.0,37.5,Suspicious
+IMO2000090,Atlantic Spirit 9,UK,Tanker,0.0,0.0,33.8,Suspicious
+IMO2000091,Ocean Star 10,USA,Bulk Carrier,0.0,0.0,31.3,Suspicious
+IMO2000092,Sea Guardian 10,India,Container,0.0,0.0,37.0,Suspicious
+IMO2000093,Blue Horizon 10,Japan,Tanker,0.0,0.0,31.6,Suspicious
+IMO2000094,Pacific Trader 10,UAE,Bulk Carrier,0.0,0.0,35.8,Suspicious
+IMO2000095,Marine Voyager 10,USA,Container,0.0,0.0,33.2,Suspicious
+IMO2000096,Eastern Pearl 10,USA,Passenger,0.0,0.0,35.4,Suspicious
+IMO2000097,Global Carrier 10,Japan,Cargo,0.0,0.0,33.4,Suspicious
+IMO2000098,Ocean Pioneer 10,Panama,Cargo,0.0,0.0,34.1,Suspicious
+IMO2000099,Sea Falcon 10,Singapore,Container,0.0,0.0,36.0,Suspicious
+IMO2000100,Atlantic Spirit 10,Panama,Bulk Carrier,0.0,0.0,37.2,Suspicious
